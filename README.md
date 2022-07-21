@@ -9,3 +9,6 @@ A remote management tool that allows terminal access to multiple clients at a gi
 - The Client file goes on client computers you would like to manage, make you change your `host` string to the ip of your Server computer.
 - To disconnect from the client you must use #quit
 ### Commands on the server can be seen with 'help' and on the client can be seen with #help
+
+# Contact
+- Lorenzo Escobar, LE.LorenzoEscobar@gmail.com
